@@ -1,0 +1,14 @@
+node_modules/
+.idea/
+.vscode/
+platforms/
+plugins/
+gen/
+
+.DS_STORE
+
+local.properties
+
+/www/manifest.json
+/package-lock.json
+.hot_reload_js_files/
